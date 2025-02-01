@@ -1,0 +1,15 @@
+# Ignore o arquivo .env
+.env
+
+# Pastas de volumes do Docker
+volumes/
+
+# Arquivos e diretórios do pgAdmin (dados persistentes)
+pgadmin_data/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
